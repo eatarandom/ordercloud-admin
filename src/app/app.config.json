@@ -1,0 +1,15 @@
+{
+	"appname": "ordercloud-admin",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "D2FC0111-901C-455C-9AC1-AB916AFAD282",
+	"buyerid": "9Ppga9O16UGltdAM3RmVzg",
+	"catalogid": "9Ppga9O16UGltdAM3RmVzg",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
